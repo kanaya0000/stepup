@@ -71,6 +71,17 @@ p {
   font-size: 1.5rem;
   line-height: 2.5rem;
   text-align: left;
+  color: #1c1c1c;
+}
+#profile .profile .profile_setting .profile1 .emphasis {
+  color: black;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+#profile .profile .profile_setting .profile1 .emphasis2 {
+  color: red;
+  font-weight: bold;
+  font-size: 1.8rem;
 }
 #profile .profile .profile2 {
   color: #0098db;
@@ -100,6 +111,16 @@ p {
     padding: 0;
     font-size: 1rem;
     line-height: 2rem;
+  }
+  main #profile .profile .profile_setting .profile1 .emphasis {
+    color: black;
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+  main #profile .profile .profile_setting .profile1 .emphasis2 {
+    color: red;
+    font-weight: bold;
+    font-size: 1.3rem;
   }
   main #profile .profile .profile2 {
     font-size: 1.3rem;
